@@ -105,11 +105,12 @@ export default function Navbar() {
                     <Link href="/items/stamps">Stamps</Link>
                   </li>
                   <li>
-                    <Link href="/items/letters">Letters</Link>
+                    <Link href="/items/envelops">Envelops</Link>
                   </li>
                   <li>
-                    <Link href="/items/first-day-covers">First Day Covers</Link>
+                    <Link href="/items/letters">Letters</Link>
                   </li>
+                  
                 </ul>
               )}
             </li>
