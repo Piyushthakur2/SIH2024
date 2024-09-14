@@ -1,17 +1,18 @@
-import React from 'react'
-import Link from 'next/link'
-import Navbar from './components/Navbar'
-import Home from './components/Home'
-import Footer from './components/Footer'
+import React from "react";
+import Link from "next/link";
+import Navbar from "./components/Navbar";
+import Home from "./components/Home";
+import Footer from "./components/Footer";
 
 const page = () => {
   return (
     <div>
-      <Navbar/>
-      <Home/>
-      <Footer/>
+      <Navbar />
+      <Home />
+      <Footer />
+      hello how are you
     </div>
-  )
-}
+  );
+};
 
-export default page
+export default page;
