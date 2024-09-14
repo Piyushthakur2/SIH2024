@@ -9,7 +9,7 @@ const page = () => {
     <div>
       <Navbar />
       <Home />
-      hello how are you
+      <Footer />
     </div>
   );
 };
