@@ -1,8 +1,8 @@
 import React from 'react'
 import Link from 'next/link'
-import Navbar from './fonts/components/Navbar'
-import Home from './fonts/components/Home'
-import Footer from './fonts/components/Footer'
+import Navbar from './components/Navbar'
+import Home from './components/Home'
+import Footer from './components/Footer'
 
 const page = () => {
   return (
